@@ -143,6 +143,46 @@ Before running:
 }
 ```
 
+## References
+
+Key references used in this repository (the full list of 57 is in the paper).
+
+**Ridge, Lasso, Elastic Net and generalized ridge**
+
+Hoerl, A. E., and Kennard, R. W. (1970). Ridge regression: Biased estimation for nonorthogonal problems. *Technometrics*, 12(1), 55-67. https://doi.org/10.1080/00401706.1970.10488634
+
+Hoerl, A. E., Kennard, R. W., and Baldwin, K. F. (1975). Ridge regression: Some simulations. *Communications in Statistics*, 4(2), 105-123. https://doi.org/10.1080/03610927508827232
+
+Tibshirani, R. (1996). Regression shrinkage and selection via the lasso. *Journal of the Royal Statistical Society Series B*, 58(1), 267-288. https://doi.org/10.1111/j.2517-6161.1996.tb02080.x
+
+Zou, H., and Hastie, T. (2005). Regularization and variable selection via the elastic net. *Journal of the Royal Statistical Society Series B*, 67(2), 301-320. https://doi.org/10.1111/j.1467-9868.2005.00503.x
+
+Yang, S.-P., and Emura, T. (2017). A Bayesian approach with generalized ridge estimation for high-dimensional regression and testing. *Communications in Statistics - Simulation and Computation*, 46(8), 6083-6105. https://doi.org/10.1080/03610918.2016.1193195
+
+Emura, T., Matsumoto, K., Uozumi, R., and Michimae, H. (2024). g.ridge: An R package for generalized ridge regression for sparse and high-dimensional linear models. *Symmetry*, 16(2), 223. https://doi.org/10.3390/sym16020223
+
+**Sources of the ridge parameter (k) estimators**
+
+Mermi, S., Akkus, O., Goktas, A., and Gunduz, N. (2024). A new robust ridge parameter estimator having no outlier and ensuring normality for linear regression model. *Journal of Radiation Research and Applied Sciences*, 17(1), 100788. https://doi.org/10.1016/j.jrras.2023.100788
+
+Kibria, B. M. G. (2023). More than hundred (100) estimators for estimating the shrinkage parameter in a linear and generalized linear ridge regression models. *Journal of Econometrics and Statistics*, 2(2), 233-252.
+
+Kibria, B. M. G., and Lukman, A. F. (2020). A new ridge-type estimator for the linear regression model: Simulations and applications. *Scientifica*, 2020. https://doi.org/10.1155/2020/9758378
+
+Kibria, B. M. G. (2003). Performance of some new ridge regression estimators. *Communications in Statistics - Simulation and Computation*, 32(2), 419-435. https://doi.org/10.1081/SAC-120017499
+
+**Simulation design**
+
+McDonald, G. C., and Galarneau, D. I. (1975). A Monte Carlo evaluation of some ridge-type estimators. *Journal of the American Statistical Association*, 70(350), 407-416. https://doi.org/10.1080/01621459.1975.10479882
+
+Gibbons, D. G. (1981). A simulation study of some ridge estimators. *Journal of the American Statistical Association*, 76(373), 131-139. https://doi.org/10.1080/01621459.1981.10477619
+
+**Data**
+
+Woods, H., Steinour, H. H., and Starke, H. R. (1932). Effect of composition of Portland cement on heat evolved during hardening. *Industrial and Engineering Chemistry*, 24(11), 1207-1214. https://doi.org/10.1021/ie50275a002
+
+Longley, J. W. (1967). An appraisal of least squares programs for the electronic computer from the point of view of the user. *Journal of the American Statistical Association*, 62(319), 819-841. https://doi.org/10.1080/01621459.1967.10500896
+
 ## Contact
 
 HM Nayem - Department of Mathematics and Statistics, Florida International University
